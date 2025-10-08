@@ -10,4 +10,3 @@ values 	('2024-11-23 14:30', 'Il fait beau', 'Quel beau soleil aujourd’hui !',
         ('2024-12-05 17:52', 'Album disponible', 'Nouvel album de mon groupe préféré !', '2'),
         ('2024-12-15 10:05', 'Aidez-moi', 'Je cherche une recette de gâteau au chocolat.', '3');
         
-insert into t_aimer()
